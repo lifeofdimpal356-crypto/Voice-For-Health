@@ -1,0 +1,6 @@
+{
+  "name": "Sahaay Voice",
+  "description": "Voice-first healthcare information assistant for families, rural communities, and elderly patients in English, Hindi, and Gujarati.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": []
+}
